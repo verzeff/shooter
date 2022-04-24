@@ -1,4 +1,4 @@
 # shooter
 Controls:
-A, D - Left, Right;\n
+A, D - Left, Right;
 Space - Shoot
